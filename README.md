@@ -11,5 +11,10 @@ This repository contains various Machine Learning projects, covering different a
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1W4Io0BSZERICabwhwagoh7ZUEDTwVbYt)
 
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1J9J0eAAvCw7rDnGB7CH2n1cLVoSVmioJ?usp=sharing)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tTQzyiT_wWrA_PxVSHiTZyntKqHGxhNv?usp=sharing)
+
+
 ## Contributions
 Feel free to contribute by submitting pull requests or creating issues for bug reports or feature requests.
