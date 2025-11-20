@@ -17,6 +17,8 @@ This repository contains various Machine Learning projects, covering different a
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CwPMonRUdQY6Soc5_LQj4KrKjrw9kONR?usp=sharing)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xVnDIX-oQsmAAqGVR8N5C5jg0n6JTRFV?usp=sharing)
+
 
 
 
